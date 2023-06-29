@@ -1,0 +1,9 @@
+rootProject.name = 'gitflow-practice'
+
+include 'module-analysis'
+include 'module-api'
+include 'module-auth'
+include 'module-core'
+include 'module-eureka'
+include 'module-gateway'
+include 'module-survey'
