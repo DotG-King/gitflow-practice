@@ -10,4 +10,5 @@ public class ModuleEurekaApplication {
         SpringApplication.run(ModuleEurekaApplication.class, args);
     }
 
+    public static int num = 11;
 }
